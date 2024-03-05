@@ -7,12 +7,11 @@ Je suis passionné par le développement web et j'aime explorer de nouvelles tec
 ## Mes compétences
 
 - Langages de programmation : JavaScript, PHP
-- Frameworks : Laravel
 - Outils : Git, Visual Studio Code, WAMP, LAMP
 
 ## Mes projets
 
-Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
+Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 - [ConnectEvents](https://github.com/JustArthur/ConnectEvents) : ConnectEvents est une application web pour la gestion et l'organisation d'événements.
 - [MasterMind](https://github.com/JustArthur/MasterMind) : Mastermind est un jeu de réflexion classique où les joueurs doivent deviner une combinaison de couleurs en utilisant des indices.
