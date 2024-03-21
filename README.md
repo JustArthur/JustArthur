@@ -15,7 +15,6 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 - [ConnectEvents](https://github.com/JustArthur/ConnectEvents) : ConnectEvents est une application web pour la gestion et l'organisation d'événements.
 - [MasterMind](https://github.com/JustArthur/MasterMind) : Mastermind est un jeu de réflexion classique où les joueurs doivent deviner une combinaison de couleurs en utilisant des indices.
-- [WebDevTalk](https://github.com/JustArthur/WebDevTalk) :WebDevTalk est un site type Reddit dédié au développement web. Il offre un espace de discussion et d'échange pour les passionnés du domaine. Partagez des articles, posez des questions, et interagissez avec une communauté de développeurs.
 
 N'hésitez pas à explorer mes dépôts pour découvrir davantage de projets intéressants !
 
