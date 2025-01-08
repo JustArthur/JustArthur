@@ -12,7 +12,7 @@ Je suis passionné par le développement web et j'aime explorer de nouvelles tec
 - **Frameworks & Librairies** : Angular, IONIC, Symfony
 
 ### Outils et Technologies :  
-- **Base de données** : MySQL
+- **Base de données** : MySQL, DBeaver, PHPMyAdmin
 - **Versioning** : Git & GitHub
 - **Server** : Windows Server 2016, Serveur WAMP/XAMP/LAMP
 - **Design** : Figma, Adobe XD  
@@ -26,4 +26,4 @@ Je suis passionné par le développement web et j'aime explorer de nouvelles tec
                     
 
 --- 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=web&logoColor=white)](https://justarthur.github.io/Portfolio/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-bourst/) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthur.bourst@proton.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=web&logoColor=white)](https://justarthur.github.io/Portfolio/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-bourst/) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:arthur.bourst@proton.me)
